@@ -1,2 +1,2 @@
 # AI-meal-planner
-AN app that recoomends meals using AI
+An app that recommends meals using AI
